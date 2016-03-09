@@ -4,7 +4,9 @@ A simple command line interface for doing a survey that was part of the STATE Sc
 
 ## More details:
 
-http://www.statefestival.org/festival-2014
+Festival: http://www.statefestival.org/festival-2014
+
+Time Bureau: http://www.statefestival.org/program#statescienceinteractives-section
 
 ## Based on:
 
